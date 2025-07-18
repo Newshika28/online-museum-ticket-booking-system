@@ -1,9 +1,9 @@
 # **Problem Statement: Online Chatbot based ticketing system**
-### Problem Statement ID: 1648
-### Problem Statement Title: Online Chatbot Based Ticketing System
-### Organization: Ministry of Culture
-### Category: Software
-### Theme: Travel & Tourism
+**Problem Statement ID: 1648**
+**Problem Statement Title: Online Chatbot Based Ticketing System**
+**Organization: Ministry of Culture**
+**Category: Software**
+**Theme: Travel & Tourism** 
 
 ### Background:
 Visitors to museums frequently face challenges with traditional, manual ticket booking methods. These systems often lead to long queues, operational inefficiencies, and increased chances of human error. Such issues negatively impact the visitor experience and the institution's ability to handle high traffic during peak seasons and special exhibitions.
@@ -46,7 +46,14 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 ### Install dependencies:
-pip install -r requirements.txt
+pip install Flask
+langchain
+langchain-google-genai
+pymongo
+python-dotenv
+dateparser
+Flask-Bcrypt
+PyJWT
 
 ### Create a .env file in the root folder and add the following:
 GOOGLE_API_KEY=your_google_gemini_api_key
