@@ -1,9 +1,9 @@
 # **Problem Statement: Online Chatbot based ticketing system**
-**Problem Statement ID: 1648**
-**Problem Statement Title: Online Chatbot Based Ticketing System**
-**Organization: Ministry of Culture**
-**Category: Software**
-**Theme: Travel & Tourism** 
+**Problem Statement ID: 1648** <br>
+**Problem Statement Title: Online Chatbot Based Ticketing System** <br>
+**Organization: Ministry of Culture** <br>
+**Category: Software** <br>
+**Theme: Travel & Tourism** <br> 
 
 ### Background:
 Visitors to museums frequently face challenges with traditional, manual ticket booking methods. These systems often lead to long queues, operational inefficiencies, and increased chances of human error. Such issues negatively impact the visitor experience and the institution's ability to handle high traffic during peak seasons and special exhibitions.
